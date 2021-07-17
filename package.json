@@ -1,0 +1,19 @@
+{
+  "name": "modern-blankslate",
+  "version": "1.0.0",
+  "description": "\"# modern_blankslate\" \r \"# modern_blankslate\"",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mo-maher/modern_blankslate.git"
+  },
+  "author": "Mohamed maher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mo-maher/modern_blankslate/issues"
+  },
+  "homepage": "https://github.com/mo-maher/modern_blankslate#readme"
+}
